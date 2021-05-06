@@ -285,3 +285,35 @@ body {
 .cardBard .higherLevels { border-top: 1px solid  #812264; }
 .cardBard .prop {	border-color: #812264 !important; }
 .cardBard .propName { color: #812264; }
+
+.cardVoin.card { background-color: #8B4513; }
+.cardVoin.card.back { background-image: url('../pics/preview-Bard-back.jpg'); color: #8B4513;}
+.cardVoin .title { border-bottom: 1px solid  #8B4513; }
+.cardVoin .level { background-color: #8B4513; }
+.cardVoin .higherLevels { border-top: 1px solid  #8B4513; }
+.cardVoin .prop {	border-color: #8B4513 !important; }
+.cardVoin .propName { color: #8B4513; }
+
+.cardVarvar.card { background-color: #800000; }
+.cardVarvar.card.back { background-image: url('../pics/preview-Bard-back.jpg'); color: #800000;}
+.cardVarvar .title { border-bottom: 1px solid  #800000	; }
+.cardVarvar .level { background-color: #800000; }
+.cardVarvar .higherLevels { border-top: 1px solid  #800000; }
+.cardVarvar .prop {	border-color: #800000 !important; }
+.cardVarvar .propName { color: #800000; }
+
+.cardPlyt.card { background-color: #4169E1; }
+.cardPlyt.card.back { background-image: url('../pics/preview-Bard-back.jpg'); color: #4169E1;}
+.cardPlyt .title { border-bottom: 1px solid  #4169E1; }
+.cardPlyt .level { background-color: #4169E1; }
+.cardPlyt .higherLevels { border-top: 1px solid  #4169E1; }
+.cardPlyt .prop {	border-color: #4169E1 !important; }
+.cardPlyt .propName { color: #4169E1; }
+
+.cardMonah.card { background-color: #008B8B; }
+.cardMonah.card.back { background-image: url('../pics/preview-Bard-back.jpg'); color: #008B8B;}
+.cardMonah .title { border-bottom: 1px solid  #008B8B; }
+.cardMonah .level { background-color: #008B8B; }
+.cardMonah .higherLevels { border-top: 1px solid  #008B8B; }
+.cardMonah .prop {	border-color: #008B8B !important; }
+.cardMonah .propName { color: #008B8B; }
