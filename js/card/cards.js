@@ -16,7 +16,8 @@ var Card = React.createClass({
       "Жрец Света":"cardCleric",
       "Друид": "cardDruid",
       "Паладин": "cardPaladin",
-      "Бард": "cardBard"
+      "Бард": "cardBard",
+      "Воин" : "cardVoin"
     };
     var typeClass = typeClassIndex[this.props.type];
     var bigNameLength = this.props.data.name.length;
