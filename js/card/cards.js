@@ -262,6 +262,9 @@ var Cards = React.createClass({
           <option value="Следопыт">Следопыт</option>
           <option value="Чародей">Чародей</option>
           <option value="Воин">Воин</option>
+          <option value="Варвар">Варвар</option>
+          <option value="Монах">Монах</option>
+          <option value="Плут">Плут</option>
         </select> | 
         <input type="checkbox" 
               checked={this.state.lvl0}
