@@ -20,7 +20,8 @@ var Card = React.createClass({
       "Воин" : "cardVoin",
       "Монах" : "cardMonah",
       "Плут" : "cardPlyt",
-      "Варвар" : "cardVarvar"
+      "Варвар" : "cardVarvar",
+      "Изобретатель":"cardIzobretatel"
     };
     var typeClass = typeClassIndex[this.props.type];
     var bigNameLength = this.props.data.name.length;
@@ -265,6 +266,7 @@ var Cards = React.createClass({
           <option value="Варвар">Варвар</option>
           <option value="Монах">Монах</option>
           <option value="Плут">Плут</option>
+          <option value="Изобретатель">Изобретатель</option>
         </select> | 
         <input type="checkbox" 
               checked={this.state.lvl0}
