@@ -7,13 +7,6 @@ var Card = React.createClass({
       "Чародей": "cardSorserer",
       "Следопыт": "cardRanger",
       "Жрец": "cardCleric",
-      "Жрец Бури" : "cardCleric",
-      "Жрец Войны":"cardCleric",
-      "Жрец Жизни":"cardCleric",
-      "Жрец Знания":"cardCleric",
-      "Жрец Обмана":"cardCleric",
-      "Жрец Природы":"cardCleric",
-      "Жрец Света":"cardCleric",
       "Друид": "cardDruid",
       "Паладин": "cardPaladin",
       "Бард": "cardBard",
@@ -249,15 +242,6 @@ var Cards = React.createClass({
           <option value="Волшебник">Волшебник</option>
           <option value="Друид">Друид</option>
           <option value="Жрец">Жрец</option>
-          <option value="Жрец Бури">Жрец Бури</option>
-          
-          <option value="Жрец Войны">Жрец Войны</option>
-          <option value="Жрец Жизни">Жрец Жизни</option>
-          <option value="Жрец Знания">Жрец Знания</option>
-          <option value="Жрец Обмана">Жрец Обмана</option>
-          <option value="Жрец Природы">Жрец Природы</option>
-          <option value="Жрец Света">Жрец Света</option>
-
           <option value="Колдун">Колдун</option>
           <option value="Паладин">Паладин</option>
           <option value="Следопыт">Следопыт</option>
