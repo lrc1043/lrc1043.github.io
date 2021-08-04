@@ -317,3 +317,11 @@ body {
 .cardMonah .higherLevels { border-top: 1px solid  #008B8B; }
 .cardMonah .prop {	border-color: #008B8B !important; }
 .cardMonah .propName { color: #008B8B; }
+
+.cardIzobretatel.card { background-color: #c5219c; }
+.cardIzobretatel.card.back { background-image: url('../pics/preview-Bard-back.jpg'); color: #c5219c;}
+.cardIzobretatel .title { border-bottom: 1px solid  #c5219c; }
+.cardIzobretatel .level { background-color: #c5219c; }
+.cardIzobretatel .higherLevels { border-top: 1px solid  #c5219c; }
+.cardIzobretatel .prop {	border-color: #c5219c !important; }
+.cardIzobretatel .propName { color: #c5219c; }
