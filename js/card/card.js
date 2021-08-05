@@ -73,7 +73,6 @@ var CardText = React.createClass({
           fontSizeClass += ' verysmall';
         }
         else {
-          fontSizeClass += ' verypreSmall'
         }
       // }
     }
