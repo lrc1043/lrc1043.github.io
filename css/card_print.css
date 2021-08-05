@@ -156,6 +156,19 @@ body {
     margin-top: 1mm;
     margin-bottom: 1mm;
 }
+.text.verysmall p{
+    font-size: 1.8mm;
+    line-height: 1.8mm;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
+.text.verypreSmall p{
+	color: green;
+    font-size: 1.8mm;
+    line-height: 1.8mm;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
 .text p:first-child {
 	margin-top: 2.7mm; 	
 }
