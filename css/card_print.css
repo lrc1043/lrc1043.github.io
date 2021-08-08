@@ -162,6 +162,12 @@ body {
     margin-top: 1mm;
     margin-bottom: 1mm;
 }
+.text.realverysmall p{
+	font-size: 1.6mm;
+    line-height: 1.6mm;
+    margin-top: 0.5mm;
+    margin-bottom: 0.5mm;
+}
 .text.verypreSmall p{
 	color: green;
     font-size: 1.8mm;
