@@ -90,8 +90,8 @@ var CardText = React.createClass({
       }
     } else {
       // if (len > 1150) {
-        if (len > 1100) {
-          if (len > 1250) {
+        if (len > 1000) {
+          if (len > 1150) {
             if (len > 1500){
               fontSizeClass += ' realverysmall';
             }
