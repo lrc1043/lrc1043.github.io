@@ -136,7 +136,7 @@ body {
 }
 .text p {
 	font-size: 2.3mm;
-	line-height: 2.3mm;
+	line-height: 2mm;
 	padding: 0 1.9mm; 
 	margin: 0mm; 
 	margin-top: 1.3mm; 	
@@ -163,8 +163,8 @@ body {
     margin-bottom: 1mm;
 }
 .text.realverysmall p{
-	font-size: 1.6mm;
-    line-height: 1.6mm;
+	font-size: 1.7mm;
+    line-height: 1.5mm;
     margin-top: 0.5mm;
     margin-bottom: 0.5mm;
 }
